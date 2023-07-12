@@ -1,4 +1,4 @@
-# EstrategiaAuthPorTerceros
+# EstrategiaAuthPorTercerosPassport
 
 
 Se refactoriza la logica de login, ahora cuenta con hasheo de contraseña utilizando bcrypt, 
